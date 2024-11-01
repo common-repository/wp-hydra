@@ -1,0 +1,24 @@
+{
+    "name": "tyxla/wp-hydra",
+    "description": "Allows one WordPress installation to be resolved and browsed at multiple domains.",
+    "keywords": ["wordpress", "wp", "hydra", "multiple", "domains", "installation", "resolved"],
+    "homepage": "https://github.com/tyxla/WP-Hydra",
+    "type": "library",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Marin Atanasov",
+            "email": "contact@marinatanasov.com",
+            "homepage": "http://marinatanasov.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["wp-hydra.php"]
+    },
+    "support": {
+        "source": "https://github.com/tyxla/WP-Hydra",
+        "issues": "https://github.com/tyxla/WP-Hydra/issues"
+    }
+}
